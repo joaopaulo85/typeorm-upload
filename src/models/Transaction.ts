@@ -31,7 +31,7 @@ class Transaction {
   @CreateDateColumn()
   created_at: Date;
 
-  @UpdateDateColumn
+  @UpdateDateColumn()
   updated_at: Date;
 }
 
