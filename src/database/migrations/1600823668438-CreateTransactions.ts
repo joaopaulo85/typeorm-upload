@@ -29,7 +29,7 @@ export default class CreateTransactions1600823668438
             scale: 2,
           },
           {
-            name: 'creted_at',
+            name: 'created_at',
             type: 'timestamp',
             default: 'now()',
           },
